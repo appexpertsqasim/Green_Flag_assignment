@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weekly_Assignment</string>
+    <string name="message">GreenFlag customers create</string>
+    <string name="message2">an account to access</string>
+    <string name="message3">Car health upates</string>
+    <string name="message4">Request a rescue online</string>
+    <string name="message5">Policy information</string>
+    <string name="create_btn">Create an account</string>
+    <string name="screen2_msg1">Your password should have minimum of 8</string>
+    <string name="screen2_msg2">charactars and contain atleast one</string>
+    <string name="screen2_msg3">one number,one uppercase and lower</string>
+    <string name="screen2_msg4">case letter.you can use special charactars</string>
+</resources>
